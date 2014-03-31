@@ -1,0 +1,19 @@
+name: Enchanter
+version: 1.0
+main: pl.AYuPro.Enchanter.Enchanter
+author: AYuPro
+description: Enchant for money.
+
+commands:
+    enchant:
+        usage: /<command>
+        aliases: [ench, charm]
+        description: Command for Enchanting
+
+permissions:
+    enchanter.cmd:
+        description: Give the ability for Enchant.
+        default: op
+    enchanter.vip:
+        description: Give the ability to use Enchant marked vip in config.
+        default: op

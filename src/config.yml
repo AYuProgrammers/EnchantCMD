@@ -1,0 +1,89 @@
+Enchantement:
+    protect:
+        price: 2000
+        level: 4
+        vip: false
+    fireprotect:
+        price: 2500
+        level: 4
+        vip: false
+    blastprotect:
+        price: 2000
+        level: 4
+        vip: false
+    arrowprotect:
+        price: 2000
+        level: 4
+        vip: false
+    feather:
+        price: 2500
+        level: 4
+        vip: false
+    breeding:
+        price: 2000
+        level: 3
+        vip: false
+    water:
+        price: 1500
+        level: 1
+        vip: false
+    thorns:
+        price: 1500
+        level: 3
+        vip: false
+    sharp:
+        price: 2500
+        level: 5
+        vip: false
+    smite:
+        price: 2000
+        level: 5
+        vip: false
+    spider:
+        price: 1500
+        level: 5
+        vip: false
+    knock:
+        price: 1500
+        level: 2
+        vip: false
+    fireaspect:
+        price: 2000
+        level: 2
+        vip: false
+    looting:
+        price: 2500
+        level: 3
+        vip: true
+    power:
+        price: 2500
+        level: 5
+        vip: false
+    punch:
+        price: 2000
+        level: 2
+        vip: false
+    flame:
+        price: 1500
+        level: 1
+        vip: false
+    infinity:
+        price: 2000
+        level: 1
+        vip: true
+    effect:
+        price: 2000
+        level: 3
+        vip: false
+    silktouch:
+        price: 2000
+        level: 1
+        vip: false
+    unbreak:
+        price: 2500
+        level: 3
+        vip: false
+    luck:    
+        price: 3000
+        level: 3
+        vip: true
